@@ -1,0 +1,204 @@
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW oder process.pdb
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\User\Desktop\C#\CW\CW o\CW oder process\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW oder process.pdb
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+C:\Users\User\Desktop\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\User\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.pdb
+C:\Users\User\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Supplier_Registration.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Suplier_Login.resources
+C:\Users\User\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.supply.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Suplier_Login.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.Supplier_Registration.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.supply.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\USER\Desktop\CW oder process-2\CW oder process\obj\Debug\CW oder process.pdb
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Suplier_Login.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.Supplier_Registration.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.supply.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\User\Desktop\CW oder process\edit\CW oder process\obj\Debug\CW oder process.pdb
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\bin\Debug\CW oder process.exe.config
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\bin\Debug\CW oder process.exe
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\bin\Debug\CW oder process.pdb
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Suplier_Login.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.Supplier_Registration.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.supply.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW oder process.exe
+D:\NIBM\DIPLOMA\C#\CW oder process\CW oder process\obj\Debug\CW oder process.pdb
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.exe.config
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.exe
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\bin\Debug\CW oder process.pdb
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.AssemblyReference.cache
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Allprices.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.athleticform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.badmintionform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashier.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cashierreg.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.clogin.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cricketform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.cusreg.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.customerd.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Finall_Bill.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.footballform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Form1.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerselect.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.managerview.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.mlogin.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.netballform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Print_Final_Bill.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Properties.Resources.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Suplier_Login.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.Supplier_Registration.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.supply.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW_oder_process.swimmingform.resources
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.GenerateResource.cache
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.csproj.CoreCompileInputs.cache
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.exe
+C:\Users\Nadil De Silva\Desktop\CW oder process\CW oder process\obj\Debug\CW oder process.pdb
