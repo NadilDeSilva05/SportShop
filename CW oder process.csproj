@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB094A13-9763-4211-99D0-EF9A621D0EC2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CW_oder_process</RootNamespace>
+    <AssemblyName>CW oder process</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Allprices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Allprices.Designer.cs">
+      <DependentUpon>Allprices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="athleticform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="athleticform.Designer.cs">
+      <DependentUpon>athleticform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="badmintionform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="badmintionform.Designer.cs">
+      <DependentUpon>badmintionform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier.Designer.cs">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashierreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashierreg.Designer.cs">
+      <DependentUpon>cashierreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clogin.Designer.cs">
+      <DependentUpon>clogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cricketform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cricketform.Designer.cs">
+      <DependentUpon>cricketform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cusreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cusreg.Designer.cs">
+      <DependentUpon>cusreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerd.Designer.cs">
+      <DependentUpon>customerd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finall Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finall Bill.Designer.cs">
+      <DependentUpon>Finall Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="footballform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="footballform.Designer.cs">
+      <DependentUpon>footballform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerselect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerselect.Designer.cs">
+      <DependentUpon>managerselect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerview.Designer.cs">
+      <DependentUpon>managerview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mlogin.Designer.cs">
+      <DependentUpon>mlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="netballform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="netballform.Designer.cs">
+      <DependentUpon>netballform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Final_Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Final_Bill.Designer.cs">
+      <DependentUpon>Print_Final_Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Suplier_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suplier_Login.Designer.cs">
+      <DependentUpon>Suplier_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_Registration.Designer.cs">
+      <DependentUpon>Supplier_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supply.Designer.cs">
+      <DependentUpon>supply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="swimmingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="swimmingform.Designer.cs">
+      <DependentUpon>swimmingform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Allprices.resx">
+      <DependentUpon>Allprices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="athleticform.resx">
+      <DependentUpon>athleticform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="badmintionform.resx">
+      <DependentUpon>badmintionform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier.resx">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashierreg.resx">
+      <DependentUpon>cashierreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clogin.resx">
+      <DependentUpon>clogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cricketform.resx">
+      <DependentUpon>cricketform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cusreg.resx">
+      <DependentUpon>cusreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerd.resx">
+      <DependentUpon>customerd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finall Bill.resx">
+      <DependentUpon>Finall Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="footballform.resx">
+      <DependentUpon>footballform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerselect.resx">
+      <DependentUpon>managerselect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerview.resx">
+      <DependentUpon>managerview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mlogin.resx">
+      <DependentUpon>mlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="netballform.resx">
+      <DependentUpon>netballform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Final_Bill.resx">
+      <DependentUpon>Print_Final_Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Suplier_Login.resx">
+      <DependentUpon>Suplier_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier_Registration.resx">
+      <DependentUpon>Supplier_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supply.resx">
+      <DependentUpon>supply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="swimmingform.resx">
+      <DependentUpon>swimmingform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
